@@ -6,7 +6,7 @@
 	</head>
 	
 	<body>
-		<h1><center><em>GLOSARIO DE TERMINOS MEDICOS</center></h1>
+		<h1><center><em>GLOSARIO DE TERMINOS MEDICOS</em></center></h1>
 			<p>
 			<a name="arriba"></a>
 			<center>
@@ -106,7 +106,6 @@
 					<ul>
 						<li><a href="https://es.wikipedia.org/wiki/Anticuerpo_monoclonal">MAb: anticuerpo monoclonal.</a></li>
 						<li><a href="https://es.wikipedia.org/wiki/Tejido_linfoide_asociado_a_las_mucosas">MALT</a>, siglas en inglés de mucosa-associated lymphoid tissue, tejido linfoide asociado a las mucosas.</li>
-						<li><a h ref="https://es.wikipedia.org/wiki/Meningitis">Meningitis</a>: inflamación de las meninges.</li>
 					</ul>				
 				<a name="N" />				
 				<p ><b><font size="7"><center>N</center></font></b></p>
@@ -120,7 +119,6 @@
 					<ul>
 						<li><a hef="https://es.wikipedia.org/wiki/Ser_vivo">Organismo</a>: todo ser vivo, animal o vegetal.</li>
 						<li><a href="https://es.wikipedia.org/wiki/Órgano_(biología)">Órgano</a>: parte de un organismo pluricelular dotada de una o varias funciones.</li>li>
-						<li>Otalgia: dolor de oído.</li>
 						<li><a href="https://es.wikipedia.org/wiki/Otitis">Otitis</a>: inflamación del oído.</li>
 					</ul>
 				<a name="P" />
@@ -128,7 +126,6 @@
 					<ul>
 						<li><a href="https://es.wikipedia.org/wiki/Patogenia">Patogenia</a>: parte de la patología que estudia como se produce la enfermedad.</li>
 						<li><a href="https://es.wikipedia.org/wiki/Pelagra">Pelagra</a>: enfermedad provocada por la falta de niacina.</li>
-						<li><a href="https://es.wikipedia.org/wiki/Plexo">Plexo</a>: red formada por varios filamentos nerviosos y vasculares entrelazados.</li>
 					</ul>
 				<a name="R" />										
 				<p ><b><font size="7"><center>R</center></font></b></p>
@@ -144,8 +141,6 @@
 					<ul>
 						<li><a href="https://es.wikipedia.org/wiki/Sensibilidad_(biología)">Sensibilidad</a>: capacidad de sentir. Se distinguen tantos tipos de sensibilidad como sentidos existen.</li>
 						<li><a href="https://es.wikipedia.org/wiki/Sialorrea">Sialorrea</a>: producción excesiva de saliva.</li>
-						<li><a href="https://es.wikipedia.org/wiki/Síncope">Síncope</a>: pérdida repentina del conocimiento, por lo general breve y reversible.</li>
-						<li>Sinusorragia: sangrado durante el coito.</li>
 					</ul>	
 				<a name="T" />							
 				<p ><b><font size="7"><center>T</center></font></b></p>						
